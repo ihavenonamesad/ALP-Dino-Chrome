@@ -1,0 +1,165 @@
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\keven\source\repos\DinoChorme3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\Asus1\Source\Repos\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+D:\Code\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+D:\Code\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+D:\Code\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+D:\Code\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+D:\Code\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+D:\Code\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+D:\Tugas Kuliah ISB\Algorithm Programming\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\Asus1\OneDrive\Documents\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\Olan\Downloads\DinoChrome3\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+D:\Tugas Kuliah ISB\Applied Mathematics\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.exe
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.deps.json
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.runtimeconfig.json
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\bin\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.AssemblyReference.cache
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Form1.resources
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.Properties.Resources.resources
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.GenerateResource.cache
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfoInputs.cache
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.AssemblyInfo.cs
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.csproj.CoreCompileInputs.cache
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.genruntimeconfig.cache
+C:\Users\PC SAYA\Downloads\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\ref\DinoChorme3.dll
+C:\Users\ekasu\source\repos\DinoChrome3 new\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.dll
+C:\Users\ekasu\source\repos\DinoChrome3 new\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\refint\DinoChorme3.dll
+C:\Users\ekasu\source\repos\DinoChrome3 new\DinoChrome3 new\DinoChrome3\DinoChorme3\obj\Debug\net6.0-windows\DinoChorme3.pdb
